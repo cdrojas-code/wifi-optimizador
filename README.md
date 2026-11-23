@@ -4,6 +4,10 @@ Herramienta para Windows 10/11 que diagnostica y corrige los problemas más comu
 cortes, pérdida de paquetes, drivers viejos, ahorro de energía e interferencia.
 Funciona con cualquier tarjeta (Intel, Realtek, TP-Link, MediaTek…) y en Windows en español o inglés.
 
+## Descarga
+
+**[⬇️ Descargar la última versión](https://github.com/cdrojas-code/wifi-optimizador/releases/latest)**: baja el archivo `WifiOptimizador-vX.Y.Z.zip` y descomprímelo.
+
 ## Uso rápido
 
 Doble clic en **`Iniciar.bat`** y elige una opción del menú:
